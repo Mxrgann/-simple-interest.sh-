@@ -1,0 +1,5 @@
+$ git branch -a -vv
+
+* main          1c896b7 [origin/main] Initial commit
+  bug-fix-typo  abc1234 [origin/bug-fix-typo] Fix typo
+  bug-fix-revert def5678 [origin/bug-fix-revert] Revert bug fix
